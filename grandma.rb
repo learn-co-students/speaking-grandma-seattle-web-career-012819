@@ -7,7 +7,6 @@ def speak_to_grandma(speak)
   else
     "WHAT?! SPEAK UP, SONNY!"
   end
-  "WHAT?! SPEAK UP, SONNY!"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
